@@ -5,3 +5,6 @@ start, starts
 enable, makes env no need to restart every time
 status, status
 restart,restart
+
+
+cd /usr/share/nginx/html file location is nginx server index.html locations
